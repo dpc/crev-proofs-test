@@ -1,0 +1,16 @@
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-04-23T23:45:23.123289699-07:00"
+from:
+  id-type: crev
+  id: xdBG3WjqFKlzerzOW7LHkoy-U413Tw_p6zUxzptEUwU
+  url: "https://github.com/dpc/crev-proofs-test"
+ids:
+  - id-type: crev
+    id: xdBG3WjqFKlzerzOW7LHkoy-U413Tw_p6zUxzptEUwU
+    url: "https://github.com/dpc/crev-proofs-test"
+trust: high
+-----BEGIN CREV TRUST SIGNATURE-----
+AVIYUphmfU04r_giKqER9KzQar3y5wzWvTmwFsoHE5V990_sUa8HmgTQK9WpeZ3TNpVfTqDpk56BvNMeGykYBg
+-----END CREV TRUST-----
+
